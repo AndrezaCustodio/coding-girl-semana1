@@ -1,0 +1,13 @@
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\bin\Debug\netcoreapp3.1\exercicio4.exe
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\bin\Debug\netcoreapp3.1\exercicio4.deps.json
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\bin\Debug\netcoreapp3.1\exercicio4.runtimeconfig.json
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\bin\Debug\netcoreapp3.1\exercicio4.runtimeconfig.dev.json
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\bin\Debug\netcoreapp3.1\exercicio4.dll
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\bin\Debug\netcoreapp3.1\exercicio4.pdb
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\obj\Debug\netcoreapp3.1\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\obj\Debug\netcoreapp3.1\exercicio4.AssemblyInfoInputs.cache
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\obj\Debug\netcoreapp3.1\exercicio4.AssemblyInfo.cs
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\obj\Debug\netcoreapp3.1\exercicio4.csproj.CoreCompileInputs.cache
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\obj\Debug\netcoreapp3.1\exercicio4.dll
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\obj\Debug\netcoreapp3.1\exercicio4.pdb
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio4\obj\Debug\netcoreapp3.1\exercicio4.genruntimeconfig.cache

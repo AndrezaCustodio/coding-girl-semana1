@@ -1,0 +1,14 @@
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.exe
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.deps.json
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.runtimeconfig.json
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.runtimeconfig.dev.json
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.dll
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.pdb
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.csproj.AssemblyReference.cache
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.AssemblyInfoInputs.cache
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.AssemblyInfo.cs
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.csproj.CoreCompileInputs.cache
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.dll
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.pdb
+D:\Cursos\Cs\Módulo 0\Semana 1 - Novo\Aula2\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.genruntimeconfig.cache
